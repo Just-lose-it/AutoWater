@@ -1,6 +1,6 @@
 {
     "target_groups":[
-        519253540,912514615
+        123456789,987654321
     ],
     "random_reply":[
         "喵","太强了","饱饱","🈷️","和我做","强强！？","我是区","麦若，，，","妈妈","何意味","和一位","区，，，"
@@ -69,7 +69,7 @@
     "ated_reply_possibility":0.5,
     "ated_reply_llm_possibility":0.0,
     "poke_possibility":0.01,
-    "llm_possibility":0.0,
+    "llm_possibility":0.01,
     "do_report":true,
     "do_follow_emoji": true,
     "follow_emoji_possibility": 0.5,
